@@ -27,7 +27,7 @@ O dashboard apresenta os seguintes recursos:
 - **Valor da venda:** consulta dos valores associados às vendas.
 - **Ranking por categoria:** comparação das categorias de produtos de acordo com seu desempenho.
 
-<img src="dash_mini_curso_pb.png">
+<img src="dash-farma.png">
 
 ## 🛠️ Ferramentas utilizadas
 
